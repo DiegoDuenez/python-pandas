@@ -1,0 +1,4 @@
+marca, precio, disponibilidad
+Audi, 100000, True
+Ferrari, 20000, False
+Toyota, 20000, True
